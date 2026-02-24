@@ -49,7 +49,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/your-repo/comfyui-workflow-protector.git
+git clone https://github.com/Pondowner857/comfyui-workflow-protector.git
 ```
 
 ### 方法二：直接复制文件 | Method 2: Copy Files Directly
